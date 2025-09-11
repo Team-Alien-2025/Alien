@@ -66,6 +66,7 @@
 #### 아이디어 개요
 ##### 처음 구상 당시의 이미지
 <img width="757" height="657" alt="image" src="https://github.com/user-attachments/assets/9dcc4fdc-0c74-465a-baeb-dff538dd434d" />
+
 - 첫 구상 당시 음성만을 인식하는 폭 좁은 쪽의 아이디어
 - 음성 입력 → 점자 출력 (라즈베리 파이 + GPIO 연결)  
 - 키보드 입력 시 점자 출력 지원  
