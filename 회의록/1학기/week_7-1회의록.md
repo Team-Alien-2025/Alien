@@ -35,7 +35,7 @@
 
 ---
 
-## 🎥 카메라 고정 방식 개선 계획
+## 카메라 고정 방식 확정정
 
 - 3D 프린터 출력 브래킷은 고정력이 부족하다고 판
 - → 클램프 + 카메라 세트 구매 결정
@@ -53,24 +53,20 @@
 
 ---
 
-## 📊 서보 동작 로그 예시
+## 모터 동작 로그 
 
 ### ID:5 동작 로그
-![ID5 Servo Graph](./images/servo_id5.png)
+<img width="1351" height="1051" alt="image" src="https://github.com/user-attachments/assets/95ee5189-a37b-4fb3-a953-f8de8523813b" />
+
 
 ### ID:2 동작 로그
-![ID2 Servo Graph](./images/servo_id2.png)
+<img width="1363" height="1057" alt="image" src="https://github.com/user-attachments/assets/a0944d92-4ecf-41ef-9f55-cbaec5596b0c" />
+
 
 > 위치 추종, 토크 응답, 속도 변화 확인 완료.
 
 ---
 
-## 🔜 다음 진행 계획 (Next Steps)
-
-- [ ] 관절별 **Zero Position 값 측정 및 매핑 테이블 완성**
-- [ ] 접기 단계별 **동작 시퀀스 설계**
-- [ ] Cloth Detection/Tracking 적용 검토
-- [ ] **10분 내 접기 성능 테스트 및 반복 안정화**
 
 ---
 
